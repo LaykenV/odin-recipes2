@@ -1,0 +1,44 @@
+p {
+    color: red;
+
+}
+h1 {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+    background-color: black;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+a {
+    color: green;;
+    display: block;
+    margin-top: 15px;
+}
+img {
+    height: 500px;
+    width: 500px;
+}
+
+#ribeye {
+    background-color: yellow;
+    color: brown;
+}
+
+.ribeye.recipe {
+    background-color: black;
+}
+
+#test {
+    display: inline-block;
+    list-style: square;
+   
+    
+}
+
+
+}
+
+
+   
